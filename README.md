@@ -1,18 +1,18 @@
-# Hi, I'm Chris Garcia
+# Hi, I'm Chris Garcia 👋
 
-I'm a Computer Science & Engineering major and Math minor at Bucknell University (Class of 2027).  
-I'm interested in a wide of range of software engineering, from web/desktop apps to machine learning.
+I'm a **Computer Science & Engineering major** with a **Math minor** at **Bucknell University (Class of 2027)**.  
+I enjoy working across the stack — from systems and low-level programming to full-stack web development.
 
+Currently building:
 
-Currently working on [**Mariachi Mexican Grill**](https://www.mariachimexicangrill.com/) using Next.js, React, TypeScript, & a small Supabase backend. Developing a responsive, SEO-optimized website for a local restaurant.  This is where I've been spending most of my time recently.  
-*Note: The repository is private, but I can share code or demos if you reach out.*  
+- **[Mariachi Mexican Grill](https://www.mariachimexicangrill.com/)** — a production web app using **Next.js, React, TypeScript**, and a lightweight **Supabase** backend  
+- A new **full-stack agenda/task manager app** designed for speed and simplicity  
 
-Lately, I've been exploring model benchmarking and performance visualizing using Python, PyTorch, & Matplotlib. Planning on posting those repos here once I get more set up.
+*Note: The restaurant project repository is private, but I'm happy to share code or demos if you reach out.*
 
+## Languages/Frameworks/Tech
 
-## Languages/Frameworks
-
-C/C++, Python, Java, TypeScript, React, Next.js, Linux CLI, WSL
+C/C++, Python, Java, TypeScript, React, Next.js, Supabase, SQL, Linux CLI, WSL
 
 --- 
 **Contact:** [gchris3586@gmail.com](mailto:gchris3586@gmail.com)
