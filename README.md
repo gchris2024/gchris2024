@@ -1,4 +1,4 @@
-# Hi, I'm Chris Garcia 👋
+# Hi, I'm Chris 👋
 
 I'm a **Computer Science & Engineering major** with a **Math minor** at **Bucknell University (Class of 2027)**.  
 I enjoy working across the stack — from systems and low-level programming to full-stack web development.
@@ -6,7 +6,7 @@ I enjoy working across the stack — from systems and low-level programming to f
 Currently building:
 
 - **[Mariachi Mexican Grill](https://www.mariachimexicangrill.com/)** — a production web app using **Next.js, React, TypeScript**, and a lightweight **Supabase** backend  
-- A new **full-stack agenda/task manager app** designed for speed and simplicity  
+- Sprintly - A **full-stack agenda/task manager app** designed for speed and simplicity  
 
 *Note: The restaurant project repository is private, but I'm happy to share code or demos if you reach out.*
 
