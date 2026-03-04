@@ -7,19 +7,19 @@ I enjoy working across the stack — from full-stack web development to systems 
 
 ### Current Work
 
-#### Mariachi Mexican Grill  
+#### [Mariachi Mexican Grill](https://www.mariachimexicangrill.com/)  
 Maintaining and scaling a production website built with **Next.js, React, TypeScript, and Supabase (PostgreSQL)**.  
 *Repo is private — demos available upon request.*
 
 #### Sprintly  
 A fast, minimal **full-stack agenda/task manager** focused on clean UX and efficient architecture.
 
-#### WhomLab — Software Engineering Intern  
+#### Software Engineering Intern @ WhomLab  
 Building backend services with **Python + FastAPI**, managing **Firebase/Firestore**, Dockerized deployments, and developing analytics dashboards (React + Python).
 
 #### ECOTEN Urban Comfort  
 Developing the **backend and Python-based no-code module** for an enhanced geospatial platform 
-API development, geospatial data pipelines, and an AI agent
+Involved with API development, geospatial data pipelines, and an AI agent
 
 ---
 
