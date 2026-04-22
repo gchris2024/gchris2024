@@ -16,6 +16,7 @@ Building full-stack services with **React, Python + FastAPI**, managing **Fireba
 
 #### ECOTEN Urban Comfort  
 Developing the **backend and Python-based no-code module** for an enhanced geospatial platform 
+
 Involved with API development and data pipelines, with a focus on UX
 
 #### Sprintly  
